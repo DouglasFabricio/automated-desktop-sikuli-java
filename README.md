@@ -1,1 +1,2 @@
-# automated-desktop-sikuli-java
+# automated-desktop
+automated-desktop
